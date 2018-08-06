@@ -1,0 +1,25 @@
+{
+  "name": "mean-course",
+  "version": "1.0.0",
+  "description": "MEAN full stack web application course",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/IbrahimAdDandan/MEAN-Course.git"
+  },
+  "keywords": [
+    "MEAN",
+    "NodeJs",
+    "JavaScript",
+    "ES6"
+  ],
+  "author": "Ibrahim AdDandan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
